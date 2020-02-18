@@ -1,0 +1,24 @@
+{
+  "name": "cypress-load-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cypress-io/cypress-load-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cypress-io/cypress-load-test/issues"
+  },
+  "homepage": "https://github.com/cypress-io/cypress-load-test#readme",
+  "devDependencies": {
+    "cypress": "^4.0.2"
+  }
+}
